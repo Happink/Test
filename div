@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "author": "|| Happink ||#0379",
+        "name": "Diz",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {},
+	
+    "colors": {
+		"STATUS_RED_100": "#fef6f6",
+		"STATUS_RED_130": "#fdeeee",
+		"STATUS_RED_160": "#fce4e4",
+		"STATUS_RED_200": "#fbd9da",
+		"STATUS_RED_230": "#facecf",
+		"STATUS_RED_260": "#f9c2c3",
+		"STATUS_RED_300": "#f8b3b5",
+		"STATUS_RED_330": "#f69c9e",
+		"STATUS_RED_360": "#f38688",
+		"STATUS_RED_400": "#f1686a",
+		"STATUS_RED_430": "#f05d60",
+		"STATUS_RED_460": "#ee5154",
+		"STATUS_RED_500": "#ed4245",
+		"STATUS_RED": "#ed4245",
+		"STATUS_RED_530": "#d83c3f",
+		"STATUS_RED_560": "#c03538",
+		"STATUS_RED_600": "#a12d2f",
+		"STATUS_RED_630": "#8c2729",
+		"STATUS_RED_660": "#7a2224",
+		"STATUS_RED_700": "#5f1a1c",
+		"STATUS_RED_730": "#59191a",
+		"STATUS_RED_760": "#521718",
+		"STATUS_RED_800": "#471415",
+		"STATUS_RED_830": "#370f10",
+		"STATUS_RED_860": "#240a0a",
+		"STATUS_RED_900": "#0c0303",
+    },
+
+    "drawable_tints": {}
+}
